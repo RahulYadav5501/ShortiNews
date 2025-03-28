@@ -1,0 +1,8 @@
+{
+  "name": "shortinews",
+  "description": "A project for aggregating news from various sources.",
+  "scripts": {
+    "build": "your-build-command",
+    "start": "your-start-command"
+  }
+}
